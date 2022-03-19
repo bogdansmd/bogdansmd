@@ -1,8 +1,6 @@
 ### 👋 Hi, I’m Bogdan! 🥔  
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :snake: :panda_face: :bar_chart:
 ### Experienced in Analysis & Analytics, within Financial Institutions.
-- 👀 I’m interested in blockchain technologies and financial products, in particulat derivatives.
-- I :video_game: with Python, Pandas, R in order to combine statistics and finance.
 - 🌱 I’m currently learning Java.
 
 <!---
