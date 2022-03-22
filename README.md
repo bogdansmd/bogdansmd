@@ -1,4 +1,7 @@
 ### 👋 Hi, I’m Bogdan! 🥔  
+<img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=25/>
+<img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><img height=25/>
+<img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><img height=25/>
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :snake: :panda_face: :bar_chart:
 ### Experienced in Analysis & Analytics, within Financial Institutions.
 - 🌱 I’m currently learning Java.
@@ -8,9 +11,7 @@
 </p>
 <a href="https://www.linkedin.com/in/bogdan-smedescu-450a75185/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-<img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=25/>
-<img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><img height=25/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+
 <!---
 <p alight="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdansmd&layout=compact"/>
