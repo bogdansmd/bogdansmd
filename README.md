@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/bogdan-smedescu-450a75185/">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 <img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=25/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><img height=25/>
 <!---
 <p alight="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bogdansmd&layout=compact"/>
