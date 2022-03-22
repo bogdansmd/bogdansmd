@@ -10,7 +10,7 @@
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :snake: :panda_face: :bar_chart:
 ### Experienced in Analysis & Analytics, within Financial Institutions.
 --->
-- :bar_chart: Experienced in Analysis & Analytics, within Financial Institutions.
+- :bar_chart: Experienced in Analysis & Analytics within Financial Institutions.
 - :telescope: Interested in blockchain technologies, derivaties and statistics.
 - 🌱 I’m currently learning Java.
 
