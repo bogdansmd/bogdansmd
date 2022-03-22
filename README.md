@@ -1,4 +1,4 @@
-<h3 align='center' style="font-size:10vw"> 👋 Hi, I’m Bogdan! 🥔 </h3>
+<h3 align='center' style="font-size:10vw">👋 Hi, I’m Bogdan! 🥔</h3>
 <p align='center'>
   <img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=25/>
   <img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><img height=25/>
