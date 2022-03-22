@@ -3,12 +3,14 @@
   <img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=25/>
   <img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><img height=25/>
   <img height=25 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/><img height=25/>
-  <img height=25 src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"/><img height=25/>
+  <img src="t_icon_96.svg" width="25" height="25">
 </p>
 
 <!---
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :snake: :panda_face: :bar_chart:
 ### Experienced in Analysis & Analytics, within Financial Institutions.
+
+  <img height=25 src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"/><img height=25/>
 --->
 - :bar_chart: Experienced in Analysis & Analytics within Financial Institutions.
 - :telescope: Interested in blockchain technologies, derivaties and statistics.
