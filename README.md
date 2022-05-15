@@ -12,7 +12,7 @@
 
   <img height=25 src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"/><img height=25/>
 --->
-- :bar_chart: Experienced in Analysis & Analytics within Financial Institutions.
+- :bar_chart: Experienced in Analysis & Analytics in Market Data and Operational Risk, within Financial Institutions.
 - :telescope: Interested in blockchain technologies, derivaties and statistics.
 - 🌱 I’m currently learning Java.
 
